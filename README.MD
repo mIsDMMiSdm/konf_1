@@ -20,5 +20,7 @@ zip. Эмулятор должен работать в режиме CLI.
 Все функции эмулятора должны быть покрыты тестами, а для каждой из
 поддерживаемых команд необходимо написать 2 теста.
 
-Пример запуска программы:python shell_emulator.py --user vasya --host mypc --fs ./mydi222.zip --script ./script.txt
+Пример запуска программы:python shell_emulator.py --user danya --host mypc --fs ./mydi222.zip --script ./script.txt
+![alt text](image.png)
 
+тесты:![alt text](image-1.png)
